@@ -2,10 +2,10 @@
 将算法题分为以下15个pattern
 
 1. Sliding Windows(滑动窗)
-2. [Dynamic Programming(动态规划)](DynamicProgramming/README.md)
+2. [Dynamic Programming(动态规划)](DynamicProgramming)
 3. Two Pointers(双指针)
 4. Fast & Slow pointers(快慢指针)
-5. Merge Intervals(区间合并)
+5. [Intervals(区间类算法题)](Intervals)
 6. Cyclic Sort(循环排序)
 7. In-place Reversal of a LinkedList(原地反转链表)
 8. Tree Breadth First Search(树的BFS)
