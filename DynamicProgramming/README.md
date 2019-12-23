@@ -6,3 +6,9 @@ https://blog.csdn.net/eagle_or_snail/article/details/50987044
 
 https://wdxtub.com/interview/14520597062776.htm
 
+### 将数组切割k份，并满足一定条件题型：
+
+[Split Array Largest Sum](split-array-largest-sum.md)
+
+[Palindrome Partitioning III](palindrome-partitioning-iii.md)
+
