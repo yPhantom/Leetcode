@@ -1,7 +1,7 @@
 # Leetcode
 将算法题分为以下15个pattern
 
-1. Sliding Windows(滑动窗)
+1. [Sliding Windows(滑动窗)](SlidingWindows)
 2. [Dynamic Programming(动态规划)](DynamicProgramming)
 3. Two Pointers(双指针)
 4. Fast & Slow pointers(快慢指针)
