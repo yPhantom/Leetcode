@@ -20,7 +20,13 @@ https://wdxtub.com/interview/14520597062776.htm
 
 
 
-「将数组分成两个和相等的数组(背包问题)」：
+「将数组分成两个和相等的数组(0/1背包问题，完全背包)」：
 
 [416.Partition Equal Subset Sum](partition-equal-subset-sum.md)
+
+
+
+「字符串相关的dp」：
+
+[467. Unique Substrings in Wraparound String](unique-substrings-in-wraparound-string.md)（以某个字符结尾的连续子字符串等于这个子字符串的长度）
 
