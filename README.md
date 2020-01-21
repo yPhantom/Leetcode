@@ -11,8 +11,9 @@
 8. Tree Breadth First Search(树的BFS)
 9. Tree Depth First Search(树的DFS)
 10. Two Heaps(双堆)
-11. [Back Tracking(回溯法)](BackTrack)
-12. Modified Binary Search(变种二分)
-13. Top 'K' Elements(最大前K个元素)
-14. K-war merge K-路归并
-15. Topological Sort(拓扑排序)
+11. [Back Tracking(回溯法)](BackTracking)
+12. [Union Find(并查集)](UnionFind)
+13. Modified Binary Search(变种二分)
+14. Top 'K' Elements(最大前K个元素)
+15. K-war merge K-路归并
+16. Topological Sort(拓扑排序)
