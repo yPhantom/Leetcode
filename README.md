@@ -1,5 +1,5 @@
 # Leetcode
-将算法题分为以下15个pattern
+将算法题总结以下类别
 
 1. [Sliding Windows(滑动窗)](SlidingWindows)
 2. [Dynamic Programming(动态规划)](DynamicProgramming)
@@ -17,3 +17,5 @@
 14. Top 'K' Elements(最大前K个元素)
 15. K-war merge K-路归并
 16. Topological Sort(拓扑排序)
+17. [String(字符串)](String)
+18. [Array(数组)](Array)
